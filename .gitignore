@@ -1,0 +1,10 @@
+__pycache__/
+data/
+wandb/
+interpretation_results/
+trained_model.pth/
+training.log/
+training_validation_loss.png/
+validation_accuracy.png/
+/trained_model.pth
+/metrics.json
